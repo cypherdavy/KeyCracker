@@ -1,0 +1,8 @@
+paramiko==3.2.0
+scapy==2.5.0
+cryptography==41.0.3
+argparse==1.4.0
+rich==13.6.0
+pyfiglet==0.8.post1
+termcolor==2.3.0
+requests==2.31.0
